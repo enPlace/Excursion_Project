@@ -1,0 +1,23 @@
+html{
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: black; 
+    margin: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+header{
+    font-size: 50px;
+}
+
+.subheader{
+    font-size: 42px;
+}
+
+#about{
+    font-size: 21px;
+    color: gray; 
+}
